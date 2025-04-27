@@ -1,8 +1,7 @@
 **Hi there** 👋
 
 <!--
-**PramodKumar524/PramodKumar524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+It's Akash. I'm a Software engineer mainly working on full-stack development.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+It's Akash. I'm a Software engineer mainly working on full-stack development.
+
+I like to share the knowledge that I've gained through my professional and personal experience in software development via blog posts and video tutorials.
+
+🔗 Know more about me: akashgiri.com
+📺 New to software development? Or need to upgrade your skills? Checkout my YouTube Channel
+💬 Ask me about: web development and software engineering in general
+📫 How to reach me: contact@akashgiri.com
+📥 Get updated via my newsletter
