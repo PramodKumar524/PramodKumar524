@@ -1,4 +1,4 @@
-**PRAMOD KUAMR R** 👋
+**Hi there** 👋
 
 <!--
 **PramodKumar524/PramodKumar524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
