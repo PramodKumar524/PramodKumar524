@@ -1,8 +1,9 @@
 **Hi there** 👋
 
 <!--
-It's Akash. I'm a Software engineer mainly working on full-stack development.
-Here are some ideas to get you started:
+It's Pramod Kumar R. I'm a recent  graduating Student with a strong background of computer Science technologies and in future aspiring software engineer. 
+I like to share the knowledge that I've gained through my professional and personal experience in software development via blog posts and video tutorials.
+🔗 Know more about me: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-It's Akash. I'm a Software engineer mainly working on full-stack development.
 
-I like to share the knowledge that I've gained through my professional and personal experience in software development via blog posts and video tutorials.
 
 🔗 Know more about me: akashgiri.com
 📺 New to software development? Or need to upgrade your skills? Checkout my YouTube Channel
